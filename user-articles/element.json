@@ -1,0 +1,19 @@
+{
+    "name": "user-articles",
+    "title": "user-articles",
+    "icon": "${url:images/icon.svg}",
+    "iconSmall": "${url:images/iconSmall.svg}",
+    "width": 500,
+    "element": true,
+    "group": "mukaarts",
+    "templates": {
+        "render": "./templates/template.php",
+        "content": "./templates/content.php"
+    }, 
+    "fieldset": {
+        "default": {
+            "fields": [
+            ]
+        }
+    }
+}
